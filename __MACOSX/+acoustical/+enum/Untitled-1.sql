@@ -1,0 +1,1 @@
+select * from database where num > 2
